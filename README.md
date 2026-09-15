@@ -60,7 +60,8 @@ Creating visual identities, promotional materials, and digital designs while exp
 
 * Graphic Design
 * Figma
-* Branding
+* Affinity
+* CorelDRAW
 * Visual Communication
 
 </td>
@@ -70,6 +71,8 @@ Creating visual identities, promotional materials, and digital designs while exp
 ---
 
 ## 🛠️ Languages & Tools
+
+### 💻 Development
 
 <p align="center">
 
@@ -105,12 +108,32 @@ Creating visual identities, promotional materials, and digital designs while exp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 </a>
 
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+
+</p>
+
+---
+
+### 🎨 Design & Creative Tools
+
+<p align="center">
+
 <a href="https://www.figma.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
 </a>
 
-<a href="https://www.linux.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<a href="https://affinity.serif.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinity/affinity-original.svg" width="45" height="45" alt="Affinity"/>
+</a>
+
+<a href="https://www.coreldraw.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" width="45" height="45" alt="CorelDRAW"/>
+</a>
+
+<a href="https://www.blackmagicdesign.com/products/davinciresolve">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" width="45" height="45" alt="DaVinci Resolve"/>
 </a>
 
 </p>
@@ -121,11 +144,12 @@ Creating visual identities, promotional materials, and digital designs while exp
 
 ```text
 Web Development     ███████████████████░   90%
-UI/UX Design        █████████████████░░░   85%
 Graphic Design      ███████████████████░   90%
+UI/UX Design        █████████████████░░░   85%
 Laravel             ████████████████░░░░   80%
 Linux               ███████████████░░░░░   75%
 Docker              ████████████░░░░░░░░   60%
+Video Editing       ██████████████░░░░░░   70%
 ```
 
 ---
@@ -142,15 +166,19 @@ it's about **solving problems, creating experiences, and turning ideas into some
 ## 🤝 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/jamilunnadif">
     <img src="https://img.shields.io/badge/LinkedIn-Jamilun%20Nadif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/nadifeleven">
     <img src="https://img.shields.io/badge/Instagram-@nadifeleven-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="mailto:nadifeleven@gmail.com">
     <img src="https://img.shields.io/badge/Email-nadifeleven%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 ---
