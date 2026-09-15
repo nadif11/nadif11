@@ -54,13 +54,17 @@ I'm an **IT student from Central Java, Indonesia**, passionate about combining *
 
 A website development project focused on creating a modern digital experience for **Wastra Lokal & Bordir Kontemporer**.
 
-**Focus**
+<br>
 
-* Web Development
-* UI/UX Design
-* Laravel
-* Tailwind CSS
-* Responsive Design
+<strong>Focus</strong>
+
+<ul>
+<li>Web Development</li>
+<li>UI/UX Design</li>
+<li>Laravel</li>
+<li>Tailwind CSS</li>
+<li>Responsive Design</li>
+</ul>
 
 </td>
 
@@ -70,14 +74,18 @@ A website development project focused on creating a modern digital experience fo
 
 Working on visual identities, promotional materials, digital graphics, and creative projects.
 
-**Focus**
+<br>
 
-* Graphic Design
-* UI Design
-* Figma
-* Affinity Designer
-* CorelDRAW
-* Visual Communication
+<strong>Focus</strong>
+
+<ul>
+<li>Graphic Design</li>
+<li>UI Design</li>
+<li>Figma</li>
+<li>Affinity</li>
+<li>CorelDRAW</li>
+<li>Visual Communication</li>
+</ul>
 
 </td>
 
@@ -190,12 +198,12 @@ Working on visual identities, promotional materials, digital graphics, and creat
   />
 </a>
 
-<a href="https://affinity.serif.com/" target="_blank">
+<a href="https://www.affinity.studio/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/affinitydesigner/1B72BE"
+    src="https://raw.githubusercontent.com/SmartScaleAI/statussy/main/public/logos/affinity.svg"
     width="45"
     height="45"
-    alt="Affinity Designer"
+    alt="Affinity"
   />
 </a>
 
