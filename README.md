@@ -1,20 +1,160 @@
 <h1 align="center">Hi 👋, I'm Jamilun Nadif</h1>
-<h3 align="center">An enthusiastic IT student from Central Java, Indonesia.</h3>
 
-- Graphic designer at [Bananaina English COurse](https://www.instagram.com/bananainaenglishcourse?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==)
-
-- Working on a website development project [Dehiera](http://dehiera.com/)
-
-- 👨‍💻 All of my projects are available at [nelv.figma.site](nelv.figma.site)
-
-- 📫 How to reach me **nadifeleven@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nelv.figma.site" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nelv.figma.site" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jamilun nadif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamilun nadif" height="30" width="40" /></a>
-<a href="https://instagram.com/nadifeleven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadifeleven" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Graphic+Designer;Web+Developer+%7C+Creative+Thinker;Building+ideas+into+digital+experiences" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/nadifeleven">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an **IT student from Central Java, Indonesia**, passionate about combining **technology, design, and creativity** to build meaningful digital experiences.
+
+* 🎨 **Graphic Designer** at [Bananaina English Course](https://www.instagram.com/bananainaenglishcourse/)
+* 🌐 Currently working on a website development project — **[Dehiera](http://dehiera.com/)**
+* 💻 Exploring **Web Development & UI/UX Design**
+* 🎯 Interested in turning ideas into practical digital products
+* 📂 Check out my projects at **[nelv.figma.site](https://nelv.figma.site/)**
+* 📫 Reach me at **[nadifeleven@gmail.com](mailto:nadifeleven@gmail.com)**
+
+---
+
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Dehiera
+
+A website development project focused on creating a modern digital experience for **Wastra Lokal & Bordir Kontemporer**.
+
+**Focus:**
+
+* Web Development
+* UI/UX
+* Laravel
+* Tailwind CSS
+
+</td>
+
+<td width="50%">
+
+### 🎨 Creative Design
+
+Creating visual identities, promotional materials, and digital designs while exploring the intersection between **design and technology**.
+
+**Focus:**
+
+* Graphic Design
+* Figma
+* Branding
+* Visual Communication
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<a href="https://www.w3.org/html/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+</a>
+
+<a href="https://getbootstrap.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+</a>
+
+<a href="https://www.php.net/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+</a>
+
+<a href="https://laravel.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel"/>
+</a>
+
+<a href="https://codeigniter.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="45" height="45" alt="CodeIgniter"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Web Development     ███████████████████░   90%
+UI/UX Design        █████████████████░░░   85%
+Graphic Design      ███████████████████░   90%
+Laravel             ████████████████░░░░   80%
+Linux               ███████████████░░░░░   75%
+Docker              ████████████░░░░░░░░   60%
+```
+
+---
+
+## 🌱 My Philosophy
+
+> **"Design with purpose. Code with passion. Build with impact."**
+
+I believe technology isn't just about writing code —
+it's about **solving problems, creating experiences, and turning ideas into something real.**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamilunnadif">
+    <img src="https://img.shields.io/badge/LinkedIn-Jamilun%20Nadif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nadifeleven">
+    <img src="https://img.shields.io/badge/Instagram-@nadifeleven-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nadifeleven@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nadifeleven%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer" />
+</p>
