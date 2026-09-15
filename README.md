@@ -120,23 +120,27 @@ Creating visual identities, promotional materials, and digital designs while exp
 
 <p align="center">
 
-<a href="https://www.figma.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" height="45" alt="Figma"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://affinity.serif.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinity/affinity-original.svg" width="45" height="45" alt="Affinity"/>
+<a href="https://affinity.serif.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/affinity/1B72BE" width="45" height="45" alt="Affinity"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.coreldraw.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-original.svg" width="45" height="45" alt="CorelDRAW"/>
+<a href="https://www.coreldraw.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/coreldraw/44B84A" width="45" height="45" alt="CorelDRAW"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.blackmagicdesign.com/products/davinciresolve">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" width="45" height="45" alt="DaVinci Resolve"/>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
+  <img src="https://cdn.simpleicons.org/davinciresolve/FFFFFF" width="45" height="45" alt="DaVinci Resolve"/>
 </a>
 
 </p>
+
 
 ---
 
